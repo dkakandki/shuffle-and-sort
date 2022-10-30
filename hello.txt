@@ -1,1 +1,1 @@
- shuffle all the numbers from 1 to 9.
+sort all the numbers from 1 to 9
